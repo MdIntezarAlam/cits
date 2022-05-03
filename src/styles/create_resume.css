@@ -1,0 +1,38 @@
+.create_resume {
+    min-width: 100%;
+    min-height: 90vh;
+    background-color: grey;
+    position: fixed;
+}
+
+.containers_homepage {
+    min-width: 90%;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 80px auto;
+    align-items: center;
+
+}
+
+.freshers {
+    background-color: rgb(18, 130, 229);
+    padding: 30px;
+    font-size: 20px;
+    font-weight: 600;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    color: rgb(253, 253, 253);
+    border-radius: 20px;
+}
+.goverment{
+    background-color: rgb(4, 137, 252);
+    padding: 30px;
+    font-size: 20px;
+    font-weight: 600;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    color: rgb(255, 255, 255);
+    border-radius: 20px;
+}

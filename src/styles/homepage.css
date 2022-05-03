@@ -1,0 +1,65 @@
+.homepage_container {
+    width: 100%;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+    background-repeat: no-repeat;
+    background-position: 10% 10%;
+    background-size: cover;
+    opacity: 1;
+    position: fixed;
+    background-image: url("../image/cgs.webp");
+}
+
+.homepage_content {
+    display: flex;
+    flex-direction: column;
+}
+
+.heading_1 {
+    font-size: 35px;
+    font-weight: 600;
+    margin-top: 40px;
+    font-family: 'Lobster', cursive;
+    font-family: 'Lora', serif;
+    font-family: 'Patua One', cursive;
+    font-family: 'Playfair Display', serif;
+}
+
+.headinh_2 {
+    margin-top: 20px;
+    font-weight: 600;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-family: 'Lobster', cursive;
+    font-family: 'Lora', serif;
+    font-family: 'Parisienne', cursive;
+    font-family: 'Patua One', cursive;
+    font-family: 'Playfair Display', serif;
+}
+
+.resume_maker {
+    font-size: 60px;
+    margin-top: 40px;
+    color: rgb(255, 255, 255);
+    font-weight:bolder;
+    opacity: 1;
+    font-family: 'Lobster', cursive;
+    font-family: 'Lora', serif;
+    font-family: 'Parisienne', cursive;
+    font-family: 'Patua One', cursive;
+    font-family: 'Playfair Display', serif;
+}
+
+.getstarted_btn {
+    width: 300px;
+    padding: 8px;
+    font-size: 20px;
+    border-radius: 10px;
+    border: none;
+    color: #fff;
+    background-color: blue;
+    margin-top: 110px;
+}

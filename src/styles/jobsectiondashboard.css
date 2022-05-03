@@ -1,0 +1,328 @@
+.jobsection_dashboard {
+    width: 100%;
+    min-height: 80vh;
+    background-color: white;
+}
+/* section-one */
+.job_container {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    margin: 40px auto;
+}
+
+/* placement heading */
+.place_heading {
+    color: black;
+    font-size: 22px;
+    font-weight: bolder;
+    text-align: center;
+    padding: 10px;
+}
+
+.places_wipro {
+    width: 30%;
+    min-height: 28vh;
+    margin: 2px;
+    border-radius: 10px;
+    background-image: url('../image//wip.PNG');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.place_heading_tcs {
+    color: white;
+    font-size: 22px;
+    font-weight: bolder;
+    text-align: center;
+    padding: 10px;
+    padding-top: 10px;
+}
+
+.places_tcs {
+    width: 30%;
+    min-height: 28vh;
+    margin: 2px;
+    border-radius: 10px;
+    background-image: url('../image//tc2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.place_btn {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 15px;
+    margin-top: 35px;
+}
+
+.place_btns {
+    padding: 8px;
+    border: none;
+    border-style: none;
+    color: white;
+    border-radius: 10px;
+    width: 100%;
+    margin-top: 30px;
+    font-size: 17px;
+    font-weight: bolder;
+    cursor: pointer;
+    background-color: black;
+}
+/* section-two */
+/* youtube sections */
+.youtube {
+    width: 30%;
+    min-height: 28vh;
+    margin: 2px;
+    border-radius: 10px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url('../image//yt.jpg');
+
+}
+
+.heading_youtube{
+    color: red;
+    font-size: 22px;
+    font-weight: bolder;
+    text-align: center;
+    padding: 10px;
+    padding-top: 10px;
+}
+
+.you_btn {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+    margin-top: 70px;
+
+}
+
+.you_btns {
+    padding: 8px;
+    border: none;
+    border-style: none;
+    color: white;
+    border-radius: 10px;
+    width: 100%;
+    margin-top: 88px;
+    font-size: 17px;
+    font-weight: bolder;
+    cursor: pointer;
+    background-color: rgb(238, 8, 8);
+
+}
+/* Interview sections */
+.interview {
+    width: 30%;
+    min-height: 28vh;
+    margin: 2px;
+    border-radius: 10px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url('../image//rs.jpg');
+}
+
+.heading_interview {
+    color: rgb(254, 253, 253);
+    font-size: 19px;
+    font-weight: bolder;
+    text-align: center;
+    padding: 10px;
+    padding-top: 10px;
+}
+
+.inter_btn{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+    margin-top: 70px;
+}
+
+.inter_btns {
+    padding: 8px;
+    border: none;
+    border-style: none;
+    color: white;
+    border-radius: 10px;
+    width: 100%;
+    margin-top: 90px;
+    font-size: 17px;
+    font-weight: bolder;
+    cursor: pointer;
+    background-color: rgb(166, 5, 247);
+}
+/* Mocktest sections */
+.mocktest {
+    width: 30%;
+    min-height: 28vh;
+    margin: 2px;
+    border-radius: 10px;
+    background-image: url('../image//mc.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.heading_mocktest {
+    color: black;
+    font-size: 22px;
+    font-weight: bolder;
+    text-align: center;
+    padding: 10px;
+    padding-top: 10px;
+}
+
+.mocktest_btn {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+    margin-top: 70px;
+
+}
+
+.mocktest_btns {
+    padding: 8px;
+    border: none;
+    border-style: none;
+    color: white;
+    border-radius: 10px;
+    width: 100%;
+    margin-top: 90px;
+    font-size: 17px;
+    font-weight: bolder;
+    cursor: pointer;
+    background-color: black;
+}
+/* section three */
+/* Free Course sections */
+.freecourse{
+    width: 30%;
+    min-height: 28vh;
+    margin: 2px;
+    border-radius: 10px;
+    background-image: url('../image//fr.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.heading_freecourse {
+    color: black;
+    font-size: 22px;
+    font-weight: bolder;
+    text-align: center;
+    padding: 10px;
+    padding-top: 10px;
+}
+
+.freecourse_btn {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 15px;
+    margin-top: 35px;
+
+}
+
+.freecourse_btns {
+    padding: 8px;
+    border: none;
+    border-style: none;
+    color: white;
+    border-radius: 10px;
+    width: 100%;
+    margin-top: 110px;
+    font-size: 17px;
+    font-weight: bolder;
+    cursor: pointer;
+    background-color: black;
+}
+
+/* Spoken English sections */
+.spoken{
+    width: 30%;
+    min-height: 28vh;
+    margin: 2px;
+    border-radius: 10px;
+    background-image: url('../image//sp.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.heading_spoken {
+    color:black;
+    font-size: 24px;
+    font-weight: bolder;
+    text-align: center;
+    padding: 10px;
+    padding-top: 10px;
+}
+
+.spoken_btn {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 15px;
+    margin-top: 35px;
+
+}
+
+.spoken_btns {
+    padding: 8px;
+    border: none;
+    border-style: none;
+    color: white;
+    border-radius: 10px;
+    width: 100%;
+    margin-top: 110px;
+    font-size: 17px;
+    font-weight: bolder;
+    cursor: pointer;
+    background-color: rgb(52, 14, 240);
+}
+/* Previous Questions sections */
+.question{
+    width: 30%;
+    min-height: 28vh;
+    margin: 2px;
+    border-radius: 10px;
+    background-image: url('../image//qn.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.heading_question{
+    color: rgb(10, 9, 9);
+    font-size: 25px;
+    font-weight: bolder;
+    text-align: center;
+    padding: 10px;
+    padding-top: 10px;
+}
+
+.question_btn {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 15px;
+    margin-top: 35px;
+
+}
+
+.question_btns {
+    padding: 8px;
+    border: none;
+    border-style: none;
+    color: white;
+    border-radius: 10px;
+    width: 100%;
+    margin-top: 110px;
+    font-size: 17px;
+    font-weight: bolder;
+    cursor: pointer;
+    background-color: rgb(13, 13, 14);
+}

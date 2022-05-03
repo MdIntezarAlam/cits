@@ -1,0 +1,51 @@
+.create_resume_page {
+    width: 100%;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+    background-repeat: no-repeat;
+    background-position: 10% 10%;
+    background-size: cover;
+    opacity: 0.9;
+    position: fixed;
+    background-image: url("../image/db.jpg");
+}
+
+.create_resume_page_container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 90vh;
+}
+
+.login_success_and_dashboard {
+    text-align: center;
+    margin-top: 4%;
+}
+
+.login_success {
+    padding: 10px;
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(121, 9, 55, 1) 35%, rgba(0, 212, 255, 1) 100%);
+    color: white;
+    margin: 0px 40px 0px 40px;
+}
+
+
+.Crete_resume, .download_resume, .edit_resume {
+    text-align: center;
+    margin-top: 5%;
+}
+
+.create_resume_btn, .download_resume_btn, .edit_resume_btn {
+    width: 70%;
+    padding: 8px;
+    border: none;
+    border-style: none;
+    border-radius: 10px;
+    color: #fff;
+    font-size: 28px;
+    cursor: pointer;
+    background-image: linear-gradient(to bottom right, red, blue);
+}
