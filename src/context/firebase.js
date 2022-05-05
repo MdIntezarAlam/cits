@@ -2,15 +2,15 @@ import { initializeApp } from "firebase/app";
 import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCrCjSSHcpIzRI3Jc2ltDaSps9dliKBmJE",
-  authDomain: "citsres.firebaseapp.com",
-  projectId: "citsres",
-  storageBucket: "citsres.appspot.com",
-  messagingSenderId: "544996882934",
-  appId: "1:544996882934:web:5ea72cfa33795421efafd7"
+  apiKey: "AIzaSyDqSfxPV492IpFkVjFAMilI_mClTor-n20",
+  authDomain: "citsresumemakerdatabase.firebaseapp.com",
+  projectId: "citsresumemakerdatabase",
+  storageBucket: "citsresumemakerdatabase.appspot.com",
+  messagingSenderId: "406209140194",
+  appId: "1:406209140194:web:7b1eb667b1c390f7d295bb",
+  measurementId: "G-QG640EP3P4"
 };
 
 const app = initializeApp(firebaseConfig);
 export const auth = getAuth(app);
 export default app;
-
