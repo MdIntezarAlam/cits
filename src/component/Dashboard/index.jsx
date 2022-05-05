@@ -18,13 +18,13 @@ const Dashboard = () => {
           </Link>
         </div>
         <div className="download_resume">
-          <Link to="/body">
-            <button className='download_resume_btn'>Download Resume</button>
+          <Link to="/jobsection_dashboard">
+            <button className='download_resume_btn'>Go to Job Sections</button>
           </Link>
         </div>
         <div className="edit_resume">
-          <Link to="/body">
-            <button className='edit_resume_btn'>Edit Resume</button>
+          <Link to="/about">
+            <button className='edit_resume_btn'>About Resume Maker</button>
           </Link>
         </div>
       </div>

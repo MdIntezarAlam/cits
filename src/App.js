@@ -25,7 +25,7 @@ const App = () => {
                     <Route path='/create_resume' element={<Create_resume />}></Route>
                     <Route path='/body' element={<Body />}></Route>
                     <Route path='/place_wipro' element={<Place_wipro />}></Route>
-                    <Route path='/place_tcs' element={<Place_tcs />}></Route> */}
+                    <Route path='/place_tcs' element={<Place_tcs />}></Route> 
                 </Routes>
         </UserAuthContextProvider>
     );

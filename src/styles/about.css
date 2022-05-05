@@ -4,27 +4,29 @@
     width: 100%;
     height: 125vh;
     background-color: rgb(241, 240, 240);
+    cursor: pointer;
 }
 
 .about_conatiner {
-    width: 100%;
     min-height: 50vh;
     display: inline-block;
     padding: 10px;
-}
-
-.about_box {
     width: 100%;
-    min-height: 50vh;
-    background-color: rgb(225, 224, 224);
-    border-radius: 10px;
+    min-height: 100vh;
+    color: white;
+    background-repeat: no-repeat;
+    background-position: 10% 10%;
+    background-size: cover;
+    opacity: 2;
+    background-image: url("../image//cgs.webp");
+
 }
 
 .about_box {
     display: flex;
-    /* justify-content: space-evenly; */
     justify-content: space-between;
     padding: 5px;
+    border-radius: 10px;
 }
 
 .about_heading {
@@ -36,7 +38,7 @@
 }
 
 .box_one {
-    width: 35%;
+    width: 33%;
     background-color: white;
     border-radius: 10px;
     display: flex;
@@ -46,34 +48,36 @@
 
 .content {
     margin: 8px;
-    padding:8px;
+    padding: 8px;
     font-size: 15px;
     font-weight: 600;
     color: rgb(50, 50, 50);
 }
 
 .box_two {
-    width: 30%;
+    width: 33%;
     background-color: white;
     border-radius: 10px;
 }
 
-.job_heading{
+.job_heading {
     text-align: center;
     font-size: 24px;
     color: rgb(60, 14, 246);
     padding: 14px;
     font-weight: bolder;
 }
+
 .content_2 {
     margin: 6px;
-    padding:6px;
+    padding: 6px;
     font-size: 15px;
     font-weight: 600;
     color: black;
 }
+
 .box_three {
-    width: 30%;
+    width: 33%;
     background-color: white;
     border-radius: 10px;
 }

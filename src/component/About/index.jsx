@@ -13,7 +13,10 @@ const About = () => {
         <div className="about_box">
           <div className="box_one">
             <h1 className='about_heading'>About Resume Maker Application</h1>
-            <p className="content">This is very easy and simple web application and also mobile application for resume maker and carrier builder.
+            <p className="content">
+              The main purpose of this application is to provide/ guide best  way of students carriers.
+              <br />
+              This is very easy and simple web application and also mobile application for resume maker and carrier builder.
               <br />
               In this application a user can create his/her own resume without any coast <br />
               before creating a resume a user must have to signup and login after signup and login user will be redirect to resume-dashboard page
@@ -36,26 +39,27 @@ const About = () => {
               <br />
               To Choose your big/best MNC Company and perform a good behivour this appliaction wiil helps
               <br />
-              whoever trying to access right way to grow in life
+              whoever trying to access right way to grow in life.
               <br />
-              A Student who need Internships can easily find Internship in in any field this application provide internship, leadership <br />
-              this application provide resources of previous year interview question paper so a student can prepare well without any critical situations.
+              A Student who  Internships can easily find Internship in any field this application provide internship, leadership, <br />
+              Also this application provide resources of previous year interview question papers, so a student can prepare well without any critical situations.
               <br />
-              Those who are prepareing for interview this application has a functionality which will you provide a right way to prepare your interview <br />
+              Those who are prepareing for interview this application has a functionality which will  provide you a right way to prepare your interview. <br />
               <br />
+              So Please visit this website once for your carriers....
 
             </p>
           </div>
           <div className="box_three">
-          <h1 className="job_heading">Communication</h1>
-            <p  className="content_2">
-              many student/people facing a problems in communication skills who don't know how to communicate with each other,<br />
+            <h1 className="job_heading">Communication</h1>
+            <p className="content_2">
+              Many students/people facing a problems in communication skills who don't know how to communicate with each other,<br />
               they do not know how to speek fluently english, hindi and any other languages... <br />
-              This Application will guide you how to learn language like english and how to communicate with each other at the best level
+              This Application will guide you how to learn language like english and how to communicate with each other at the best level.
               <br />
-              In the Job-Section Components there is one field for communication requirements 
+              In the Job-Section Components there is one field for communication requirements
               which provide a good plateform to learn english for communications and convert your coommunication skills in the real wold. .. <br />
-              communcation is very importants ever peoples
+              communcation is every importants ever peoples.
               <br /><br />
               please once visit this website for your carreir,
               there is lot's of features, advantages..

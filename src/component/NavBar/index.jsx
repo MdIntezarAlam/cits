@@ -17,7 +17,8 @@ const NavBar = () => {
                                 <a className="nav-link active m-1" href="/signup">Make Resume</a>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link active m-1" href="/jobsection_dashboard">Jobsection</a>
+                                <a className="nav-link active m-1" href="/login">Jobsection</a>
+                                {/* <a className="nav-link active m-1" href="/jobsection_dashboard">Jobsection</a> */}
                             </li>
                             <li className="nav-item">
                                 <a className="nav-link active m-1" href="/signup">Signup</a>

@@ -2,14 +2,16 @@ import { initializeApp } from "firebase/app";
 import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyC-xZS8f09TCVrfcRv1NyRaZU5Bbk6Qjzo",
-  authDomain: "citsresumes.firebaseapp.com",
-  projectId: "citsresumes",
-  storageBucket: "citsresumes.appspot.com",
-  messagingSenderId: "608166936571",
-  appId: "1:608166936571:web:b9bbc9ba3e8b3b4bd5155e"
+  apiKey: "AIzaSyBtayveOQBhXw5fqejSUZGW_Ww4sxO8Mgg",
+  authDomain: "tidy-hold-337408.firebaseapp.com",
+  projectId: "tidy-hold-337408",
+  storageBucket: "tidy-hold-337408.appspot.com",
+  messagingSenderId: "188094564874",
+  appId: "1:188094564874:web:947d9af319c87e2ce4adf3"
 };
 
 const app = initializeApp(firebaseConfig);
 export const auth = getAuth(app);
 export default app;
+
+
